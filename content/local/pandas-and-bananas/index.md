@@ -1,6 +1,6 @@
 ---
 title: "Pandas and Bananas"
-date: "2017-08-21"
+date_published: "2017-08-21"
 featuredImage:
   test: ./starry-sky.jpg
   path: "starry-sky.jpg"
@@ -18,3 +18,5 @@ Going back to what we want to accomplish, it seems like writing our plugin shoul
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4SZl1r2O_bY" frameborder="0" allowfullscreen></iframe>
 
 ![sweaters](./sweaters.jpg "cool weather sweaters")
+
+![screen shot](./girl-resting-chin.png)
